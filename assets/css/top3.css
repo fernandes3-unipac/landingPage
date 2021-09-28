@@ -1,0 +1,12 @@
+.top3-content{
+    display: flex;
+    flex-flow: column nowrap;
+    max-width: 64rem;
+    min-height: 100vh;
+    justify-content: center;
+}
+
+.top3-content{
+    text-align: center;
+}
+
